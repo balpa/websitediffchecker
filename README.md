@@ -1,0 +1,1 @@
+this script aims to check if there are any differences between what it previously checked on the website and the current state, then notify about any changes via email.
